@@ -1,1 +1,2 @@
 Hello, World!
+Testing out writing Git Commit messages on VSCode.
